@@ -1,4 +1,4 @@
-# gannicottb.github.io
+# Inventory
 
 * Kallax
 * Nightstand
